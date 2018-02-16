@@ -2,28 +2,30 @@ body {
 
 		color: green;
 		font-family: Verdana, Arial, Geneva, Arial Black;
-		font-weight: lighter;
+		font-weight: normal;
 	}
 		
 	h1, h2 {
 
-			border-bottom: 1px solid black;
-			font-weight: lighter;
+		text-decoration: underline;
+
 	}
 
-	.blue {
+	p.para1 {
 
 		color: blue;
 		font-size: 25px;
 	}
 
-	p.purple {
+	p.para2 {
 
 		color: purple;
 		font-size: 25px;
 	}
 
-	.underline{
+	p.para3 {
 
-		text-decoration: underline;
+		color: purple;
+		font-size: 25px;
+		font-style: italic;
 	}
